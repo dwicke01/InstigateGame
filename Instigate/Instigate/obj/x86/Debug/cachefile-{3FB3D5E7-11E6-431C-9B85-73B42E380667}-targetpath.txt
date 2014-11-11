@@ -1,0 +1,15 @@
+Content\Space.xnb
+Content\Menu.xnb
+Content\Sprites\FactionButtonGlow.xnb
+Content\Sprites\FactionButtonNoGlow.xnb
+Content\Sprites\Glow.xnb
+Content\Sprites\Ship.xnb
+Content\Sprites\Bomb.xnb
+Content\Space2.xnb
+Content\SpawnMenu\Menu2.xnb
+Content\SpawnMenu\Glow2.xnb
+Content\SpawnMenu\FactionButtonNoGlow2.xnb
+Content\SpawnMenu\FactionButtonGlow2.xnb
+Content\SpawnMenu\Bomb2.xnb
+Content\SpawnMenu\Ship2.xnb
+Content\Sprites\laser.xnb

@@ -1,0 +1,181 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Space.png</Source>
+      <Name>Space</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Daniel\Documents\Visual Studio 2010\Projects\Instigate\Instigate\Instigate\bin\x86\Debug\Content\Space.xnb</Output>
+      <Time>2013-11-09T19:03:17.6916-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu.png</Source>
+      <Name>Menu</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Daniel\Documents\Visual Studio 2010\Projects\Instigate\Instigate\Instigate\bin\x86\Debug\Content\Menu.xnb</Output>
+      <Time>2013-09-23T00:53:10.445-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\FactionButtonGlow.png</Source>
+      <Name>Sprites\FactionButtonGlow</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Daniel\Documents\Visual Studio 2010\Projects\Instigate\Instigate\Instigate\bin\x86\Debug\Content\Sprites\FactionButtonGlow.xnb</Output>
+      <Time>2013-09-26T12:50:00.857-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\FactionButtonNoGlow.png</Source>
+      <Name>Sprites\FactionButtonNoGlow</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Daniel\Documents\Visual Studio 2010\Projects\Instigate\Instigate\Instigate\bin\x86\Debug\Content\Sprites\FactionButtonNoGlow.xnb</Output>
+      <Time>2013-09-26T00:30:11.196-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Glow.png</Source>
+      <Name>Sprites\Glow</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Daniel\documents\visual studio 2010\Projects\Instigate\Instigate\Instigate\bin\x86\Debug\Content\Sprites\Glow.xnb</Output>
+      <Time>2013-11-25T14:20:43.017-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Ship.png</Source>
+      <Name>Sprites\Ship</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Daniel\Documents\Visual Studio 2010\Projects\Instigate\Instigate\Instigate\bin\x86\Debug\Content\Sprites\Ship.xnb</Output>
+      <Time>2013-11-25T23:45:11.362-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Bomb.png</Source>
+      <Name>Sprites\Bomb</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Daniel\Documents\Visual Studio 2010\Projects\Instigate\Instigate\Instigate\bin\x86\Debug\Content\Sprites\Bomb.xnb</Output>
+      <Time>2013-11-26T21:41:57.835-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Space2.png</Source>
+      <Name>Space2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Daniel\Documents\Visual Studio 2010\Projects\Instigate\Instigate\Instigate\bin\x86\Debug\Content\Space2.xnb</Output>
+      <Time>2013-11-29T19:15:38.395-05:00</Time>
+    </Item>
+    <Item>
+      <Source>SpawnMenu\Menu2.png</Source>
+      <Name>SpawnMenu\Menu2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Daniel\Documents\Visual Studio 2010\Projects\Instigate\Instigate\Instigate\bin\x86\Debug\Content\SpawnMenu\Menu2.xnb</Output>
+      <Time>2013-11-30T02:36:56.862-05:00</Time>
+    </Item>
+    <Item>
+      <Source>SpawnMenu\Glow2.png</Source>
+      <Name>SpawnMenu\Glow2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Daniel\Documents\Visual Studio 2010\Projects\Instigate\Instigate\Instigate\bin\x86\Debug\Content\SpawnMenu\Glow2.xnb</Output>
+      <Time>2013-11-30T02:39:26.042-05:00</Time>
+    </Item>
+    <Item>
+      <Source>SpawnMenu\FactionButtonNoGlow2.png</Source>
+      <Name>SpawnMenu\FactionButtonNoGlow2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Daniel\Documents\Visual Studio 2010\Projects\Instigate\Instigate\Instigate\bin\x86\Debug\Content\SpawnMenu\FactionButtonNoGlow2.xnb</Output>
+      <Time>2013-11-30T02:33:21.268-05:00</Time>
+    </Item>
+    <Item>
+      <Source>SpawnMenu\FactionButtonGlow2.png</Source>
+      <Name>SpawnMenu\FactionButtonGlow2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Daniel\Documents\Visual Studio 2010\Projects\Instigate\Instigate\Instigate\bin\x86\Debug\Content\SpawnMenu\FactionButtonGlow2.xnb</Output>
+      <Time>2013-11-30T02:32:56.325-05:00</Time>
+    </Item>
+    <Item>
+      <Source>SpawnMenu\Bomb2.png</Source>
+      <Name>SpawnMenu\Bomb2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Daniel\Documents\Visual Studio 2010\Projects\Instigate\Instigate\Instigate\bin\x86\Debug\Content\SpawnMenu\Bomb2.xnb</Output>
+      <Time>2013-11-30T02:38:29.776-05:00</Time>
+    </Item>
+    <Item>
+      <Source>SpawnMenu\Ship2.png</Source>
+      <Name>SpawnMenu\Ship2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Daniel\Documents\Visual Studio 2010\Projects\Instigate\Instigate\Instigate\bin\x86\Debug\Content\SpawnMenu\Ship2.xnb</Output>
+      <Time>2013-11-30T02:38:51.804-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\laser.png</Source>
+      <Name>Sprites\laser</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Daniel\Documents\Visual Studio 2010\Projects\Instigate\Instigate\Instigate\bin\x86\Debug\Content\Sprites\laser.xnb</Output>
+      <Time>2013-12-02T00:47:07.3646-05:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Daniel\Documents\Visual Studio 2010\Projects\Instigate\Instigate\InstigateContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Daniel\Documents\Visual Studio 2010\Projects\Instigate\Instigate\Instigate\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Daniel\Documents\Visual Studio 2010\Projects\Instigate\Instigate\InstigateContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Daniel\Documents\Visual Studio 2010\Projects\Instigate\Instigate\Instigate\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2012-09-10T03:28:46.686-04:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
